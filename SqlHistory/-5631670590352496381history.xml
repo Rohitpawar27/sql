@@ -1,0 +1,17 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create or replace procedure rpdev(a number, b number)
+as
+c number;
+begin
+c:=a>b;
+dbms_output.put_line(a||'greater than b ='||c);
+end;]]></sql>
+		<connection><![CDATA[Oracle]]></connection>
+		<timestamp><![CDATA[12/30/22 2:37 PM]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.016]]></execTime>
+	</historyItem>
+</history>

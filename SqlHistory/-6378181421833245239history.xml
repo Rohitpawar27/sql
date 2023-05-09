@@ -1,0 +1,13 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create table student
+(rno number,
+name varchar (100))]]></sql>
+		<connection><![CDATA[Oracle]]></connection>
+		<timestamp><![CDATA[12/30/22 2:52 PM]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.016]]></execTime>
+	</historyItem>
+</history>

@@ -1,0 +1,32 @@
+create table em
+(id number constraint xxx primary key,name varchar (100));
+
+create sequence seq
+start with 1
+increment by 1
+maxvalue 1000
+
+insert into em values (seq.nextval,'rohit');
+insert into em values (seq.nextval,'pandu');
+insert into em values (seq.nextval,'vaibhav');
+insert into em values (seq.nextval,'shrikant');
+insert into em values (seq.nextval,'onkar');
+
+select * from em
+
+select seq.currval from dual
+
+create table studentss
+(roll number, name varchar(20))
+
+insert into studentss values (1,'ajay');
+insert into studentss values (2,'vijay');
+insert into studentss values (3,'sujay');
+insert into studentss values (4,'pranay');
+
+select * from studentss
+rollback 
+commit
+
+
+

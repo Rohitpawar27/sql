@@ -1,0 +1,23 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create or replace procedure xystudents (type varchar, r number, n varchar )
+as
+begin 
+if type='insert' then
+insert into students(rno,name) values (r,n);
+end if;
+if type='update' then
+udate student set name=n where rno=r;
+end if;
+if type= 'delete' then
+delete from students where rno=r;
+end if;
+end;]]></sql>
+		<connection><![CDATA[Oracle]]></connection>
+		<timestamp><![CDATA[12/30/22 3:34 PM]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

@@ -1,0 +1,358 @@
+<LayoutInfo>
+   <clientLayoutData>
+      <Editing layout-name="Editing">
+         <view-data pageSelection="" ID="PALETTEFACTORY.PALETTE"/>
+      </Editing>
+      <global>
+         <view-data filter162.options="0" filter221.options="0" filter18.key="DatabasesConnectionsOracleTrigger SYSTEM6.null@Oracle" filter3.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter86.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter17.key="DatabasesConnectionsoracle3Other UsersHRMaterialized View Log HR.null@oracle3" filter249.options="0" filter132.key="DatabasesConnectionsoracle3Other UsersHRTable HR.null@oracle3Table HR.JOB_HISTORY@oracle3" filter219.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter26.options="0" filter231.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter2.key="DatabasesConnectionsOracleMaterialized View SYSTEM6.null@Oracle" filter192.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter240.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter24.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter158.key="DatabasesConnectionsOracle2Scheduler" filter166.options="0" filter242.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter14.options="0" filter166.filterCls="oracle.dbtools.raptor.navigator.CategoryFilter" filter228.options="0" filter64.key="DatabasesConnectionsOracle2Queue Table SYSTEM2.null@Oracle2" filter204.options="0" filter114.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Procedure SYSTEM6.null@oracle3" filter229.filterCls="oracle.dbtools.raptor.navigator.ConnectionFilter" filter168.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter14.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter222.key="DatabasesConnectionsOracle2Table SYSTEM2.null@Oracle2Table SYSTEM2.SCHOOL@Oracle2" filter65.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter177.options="0" filter166.key="DatabasesConnectionsoracle3Other UsersTSMSYSScheduler" filter194.options="0" filter238.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter19.options="0" filter56.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter224.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter219.key="DatabasesConnectionsOracleMaterialized View SYSTEM.null@Oracle" filter160.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter187.key="DatabasesConnectionsoracle3Other UsersSYSTEMTrigger SYSTEM.null@oracle3" filter220.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter158.options="0" filter256.key="DatabasesConnectionsOracleTrigger SYSTEM.null@Oracle" filter88.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter188.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter103.key="DatabasesConnectionsoracle3Other UsersHRTable HR.null@oracle3Table HR.REGIONS@oracle3" filter145.options="0" filter201.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter109.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Queue SYSTEM6.null@oracle3" filter111.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter215.key="DatabasesConnectionsoracle3Table SYSTEM3.null@oracle3" filter35.options="0" filter232.options="0" filter195.key="DatabasesConnectionsOracleType SYSTEM.null@Oracle" filter9.key="DatabasesConnectionsOracleMaterialized View Log SYSTEM6.null@Oracle" filter68.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter97.key="DatabasesConnectionsoracle3Database Link SYSTEM3.null@oracle3" filter187.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter156.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter254.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Scheduler" filter70.options="0" filter143.options="0" filter255.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Type SYSTEM6.null@oracle3" filter214.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter164.key="DatabasesConnectionsoracle3Other UsersTSMSYSXDB_SUBFOLDER TSMSYS.null@oracle3" filter84.key="DatabasesConnectionsoracle3Other UsersSYSTEM6XML Schema SYSTEM6.null@oracle3" filter7.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter15.options="0" filter163.options="0" filter94.key="DatabasesConnectionsoracle3Other UsersHRQueue HR.null@oracle3" filter222.options="0" filter54.options="0" filter101.options="0" filter241.key="DatabasesConnectionsoracle3Type SYSTEM3.null@oracle3" filter247.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter55.options="0" filter194.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Table SYSTEM6.null@oracle3Table SYSTEM6.LEAD_SOURCES@oracle3" filter102.key="DatabasesConnectionsoracle3Other UsersHRProcedure HR.null@oracle3" filter208.options="0" filter161.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter120.options="0" filter71.options="0" filter141.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter142.filterCls="oracle.dbtools.raptor.navigator.ConnectionFilter" filter210.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter192.key="DatabasesConnectionsOracleQueue SYSTEM6.null@Oracle" filter42.options="0" filter178.key="DatabasesConnectionsOracleQueue Table SYSTEM.null@Oracle" filter104.options="0" filter115.options="0" filter82.options="0" filter147.key="DatabasesConnectionsoracle3Other UsersTSMSYSDirectory TSMSYS.null@oracle3" filter213.key="DatabasesConnectionsoracle3Other UsersSYSTEMDatabase Link SYSTEM.null@oracle3" filter21.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter170.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter66.options="0" filter202.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter149.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Database Link SYSTEM1.null@oracle3" filter130.options="0" filter61.options="0" filter90.key="DatabasesConnectionsoracle3Other UsersHRXDB_SUBFOLDER HR.null@oracle3" filter121.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter151.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter23.options="0" filter152.options="0" filter201.key="DatabasesConnectionsOracle2Materialized View Log SYSTEM2.null@Oracle2" filter234.key="DatabasesConnectionsOracle2Directory SYSTEM2.null@Oracle2" filter197.key="DatabasesConnectionssystemTrigger SYSTEM.null@system" filter98.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter126.options="0" filter140.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter208.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter250.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Sequence SYSTEM6.null@oracle3" filter77.key="DatabasesConnectionssystemTable SYSTEM.null@systemTable SYSTEM.CITY1@system" filter75.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter154.key="DatabasesConnectionsOracleSchedulerSCHCHAIN SYSTEM6.null@Oracle" filter69.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter217.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter87.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter111.key="DatabasesConnectionssystemTable SYSTEM.null@systemTable SYSTEM.STUDENT@system" filter233.options="0" filter27.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter249.filterCls="oracle.dbtools.raptor.navigator.OtherSchemasFilter" filter25.options="0" filter175.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter136.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter212.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter216.options="0" filter158.filterCls="oracle.dbtools.raptor.navigator.CategoryFilter" filter160.options="0" filter171.key="DatabasesConnectionsOracle2Recycle Bin SYSTEM2.null@Oracle2" filter109.options="0" filter23.key="DatabasesConnectionsOracleDatabase Link SYSTEM.null@Oracle" filter96.options="0" filter184.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter6.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter231.options="0" filter224.key="DatabasesConnectionsoracle3Queue Table SYSTEM3.null@oracle3" filter99.options="0" filter46.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter188.options="0" filter86.options="0" filter199.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter22.key="DatabasesConnectionsOracle2View SYSTEM2.null@Oracle2" filter223.key="DatabasesConnectionsoracle3Other UsersHRPackage HR.null@oracle3" filter242.key="DatabasesConnectionssystemTable SYSTEM.null@systemTable SYSTEM.STATE@system" filter180.options="0" filter247.options="0" filter138.filterCls="oracle.dbtools.raptor.navigator.CategoryFilter" filter188.key="DatabasesConnectionsOracle2Synonym SYSTEM2.null@Oracle2" filter233.key="DatabasesConnectionsoracle3Function SYSTEM3.null@oracle3" filter207.key="DatabasesConnectionssystemMaterialized View SYSTEM.null@system" filter145.key="DatabasesConnectionssystemSynonym SYSTEM.null@system" filter45.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter252.options="0" filter173.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter51.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter186.key="DatabasesConnectionsOracle2Database Link SYSTEM2.null@Oracle2" filter62.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter119.options="0" filter33.key="DatabasesConnectionsOraclePUBLIC DATABASE LINK SYSTEM.null@Oracle" filter183.options="0" filter157.filterCls="oracle.dbtools.raptor.navigator.CategoryFilter" filter58.filterCls="oracle.dbtools.raptor.navigator.SchemaFilter" filter163.key="DatabasesConnectionsOracleSchedulerSCHNEWJOB SYSTEM6.null@Oracle" filter16.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter215.options="0" ID="DatabaseNavigatorWindow.DatabaseNavigatorName" filter183.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter112.options="0" filter117.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter60.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter30.key="DatabasesConnectionsoracle3Other UsersHRQueue Table HR.null@oracle3" filter141.key="DatabasesConnectionsoracle3Other UsersSYSTEMType SYSTEM.null@oracle3" filter151.key="DatabasesConnectionsoracle3Other UsersSYSTEMFunction SYSTEM.null@oracle3" filter94.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter51.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Database Link SYSTEM6.null@oracle3" filter157.key="DatabasesConnectionsoracle3Other UsersHRScheduler" filter213.options="0" filter98.options="0" filter143.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter218.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter85.options="0" filter247.key="DatabasesConnectionsOracleFunction SYSTEM.null@Oracle" filter124.options="0" filter146.filterCls="oracle.dbtools.raptor.navigator.SchemaFilter" filter211.options="0" filter29.options="0" filter74.options="0" filter17.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter13.options="0" filter217.options="0" filter101.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter131.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter57.options="0" filter175.options="0" filter196.options="0" filter55.key="DatabasesConnectionsOracle2XDB_SUBFOLDER SYSTEM2.null@Oracle2" filter120.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter236.options="0" filter34.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Scheduler" filter163.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter89.key="DatabasesConnectionssystemDirectory SYSTEM.null@system" filter173.options="0" filter197.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter100.filterCls="oracle.dbtools.raptor.navigator.OtherSchemasFilter" filter235.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter135.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter112.key="DatabasesConnectionsoracle3Other UsersHRTable HR.null@oracle3" filter107.key="DatabasesConnectionsOracle2Package SYSTEM2.null@Oracle2" filter95.filterCls="oracle.dbtools.raptor.navigator.ConnectionStoresFilter" filter6.options="0" filter80.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter194.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter97.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter169.options="0" filter48.key="DatabasesConnectionsOracle2Other Users" filter230.key="DatabasesConnectionsoracle3Sequence SYSTEM3.null@oracle3" filter133.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter38.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter41.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Materialized View SYSTEM1.null@oracle3" filter137.key="DatabasesConnectionsOracle2Trigger SYSTEM2.null@Oracle2" filter46.options="0" filter110.options="0" filter72.key="DatabasesConnectionsoracle3Other UsersTSMSYSRecycle Bin TSMSYS.null@oracle3" filter250.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter70.key="DatabasesConnectionssystemType SYSTEM.null@system" filter44.key="DatabasesConnectionsoracle3Scheduler" filter139.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter207.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter89.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter124.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter91.key="DatabasesConnectionsoracle3Other UsersSYSTEMMaterialized View SYSTEM.null@oracle3" filter15.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter121.options="0" filter210.key="DatabasesConnectionsoracle3Queue SYSTEM3.null@oracle3" filter57.key="DatabasesConnectionsOracleSchedulerSCHSCHEDULE SYSTEM6.null@Oracle" filter123.options="0" filter124.key="DatabasesConnectionsoracle3Other UsersHRRecycle Bin HR.null@oracle3" filter227.key="DatabasesConnectionsoracle3Other UsersSYSTEM1XML Schema SYSTEM1.null@oracle3" filter254.filterCls="oracle.dbtools.raptor.navigator.CategoryFilter" filter226.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter74.key="DatabasesConnectionsoracle3Directory SYSTEM3.null@oracle3" filter246.key="DatabasesConnectionsoracle3PUBLIC_SYNONYM SYSTEM3.null@oracle3" filter78.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter83.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter128.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter59.key="DatabasesConnectionsOracleMaterialized View Log SYSTEM.null@Oracle" filter2.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter136.options="0" filter1.options="0" filter171.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter176.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter12.key="DatabasesConnectionsOracleIndex SYSTEM6.null@Oracle" filter76.options="0" filter232.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter85.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Materialized View Log SYSTEM1.null@oracle3" filter44.options="0" filter236.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter76.key="DatabasesConnectionsOracleOther Users" filter121.key="DatabasesConnectionsoracle3Other UsersHRTable HR.null@oracle3Table HR.COUNTRIES@oracle3" filter157.options="0" filter58.options="0" filter135.options="0" filter100.key="DatabasesConnectionsoracle3Other Users" filter93.options="0" filter123.key="DatabasesConnectionssystemProcedure SYSTEM.null@system" filter211.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter190.options="0" filter221.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter26.key="DatabasesConnectionssystemXDB_SUBFOLDER SYSTEM.null@system" filter23.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter161.key="DatabasesConnectionsoracle3Other UsersSYSTEMSynonym SYSTEM.null@oracle3" filter178.options="0" filter18.options="0" filter80.options="0" filter12.options="0" filter134.options="0" filter126.key="DatabasesConnectionsOracleView SYSTEM6.null@Oracle" filter91.options="0" filter49.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter161.options="0" filter255.options="0" filter241.options="0" filter81.options="0" filter128.options="0" filter154.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter207.options="0" filter17.options="0" filter72.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter48.filterCls="oracle.dbtools.raptor.navigator.OtherSchemasFilter" filter3.key="DatabasesConnectionsoracle3Other UsersHRTable HR.null@oracle3Table HR.JOBS@oracle3" filter206.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter78.options="0" filter237.options="0" filter76.filterCls="oracle.dbtools.raptor.navigator.OtherSchemasFilter" filter83.key="DatabasesConnectionsoracle3Other UsersTSMSYSType TSMSYS.null@oracle3" filter236.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Materialized View Log SYSTEM6.null@oracle3" filter132.options="0" filter14.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Queue SYSTEM1.null@oracle3" filter170.key="DatabasesConnectionsOracleXML Schema SYSTEM.null@Oracle" filter67.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter173.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Function SYSTEM1.null@oracle3" filter20.key="DatabasesConnectionssystemPUBLIC_SYNONYM SYSTEM.null@system" filter179.options="0" filter62.key="DatabasesConnectionsoracle3Other UsersTSMSYSPackage TSMSYS.null@oracle3" filter239.key="DatabasesConnectionssystemTable SYSTEM.null@systemTable SYSTEM.TEACHER@system" filter243.options="0" filter212.options="0" filter78.key="DatabasesConnectionsoracle3Other UsersHRXML Schema HR.null@oracle3" filter5.options="0" filter133.key="DatabasesConnectionsOracle2PUBLIC_SYNONYM SYSTEM2.null@Oracle2" filter114.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter61.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter224.options="0" filter131.options="0" filter165.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter253.options="0" filter171.options="0" filter167.options="0" filter206.options="0" filter193.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter3.options="0" filter53.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter245.options="0" filter11.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter38.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Table SYSTEM6.null@oracle3Table SYSTEM6.LOCATIONS@oracle3" filter107.options="0" filter257.options="0" filter178.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter5.key="DatabasesConnectionsoracle3Synonym SYSTEM3.null@oracle3" filter192.options="0" filter195.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter52.key="DatabasesConnectionsOracleScheduler" filter150.key="DatabasesConnectionsoracle3Other UsersHR" filter130.key="DatabasesConnectionssystemTable SYSTEM.null@systemTable SYSTEM.STUDENTS@system" filter179.key="DatabasesConnectionssystemTable SYSTEM.null@systemTable SYSTEM.LOGMNR_AGE_SPILL$@system" filter240.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Type SYSTEM1.null@oracle3" filter167.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter253.key="DatabasesConnectionssystemDatabase Link SYSTEM.null@system" filter151.options="0" filter209.options="0" filter45.options="0" filter66.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter240.options="0" filter225.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter233.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter115.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Index SYSTEM1.null@oracle3" filter77.options="0" filter39.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter232.key="DatabasesConnectionsOracleIndex SYSTEM6.null@OracleIndex SYSTEM6.D1@Oracle" filter256.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter129.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter256.options="0" filter53.key="DatabasesConnectionsoracle3Other UsersSYSTEMDirectory SYSTEM.null@oracle3" filter153.key="DatabasesConnectionsOracleRecycle Bin SYSTEM.null@Oracle" filter11.options="0" filter226.options="0" filter165.options="0" filter183.key="DatabasesConnectionsOracleType SYSTEM6.null@Oracle" filter72.options="0" filter42.key="DatabasesConnectionsoracle3Other UsersHRFunction HR.null@oracle3" filter153.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter182.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter185.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter127.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter159.key="DatabasesConnectionsoracle3Other UsersSYSTEM6XDB_SUBFOLDER SYSTEM6.null@oracle3" filter181.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter228.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter185.key="DatabasesConnectionsOracleSchedulerSCHPROGRAM SYSTEM6.null@Oracle" filter174.key="DatabasesConnectionsOracle2PUBLIC DATABASE LINK SYSTEM2.null@Oracle2" filter243.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter244.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter0.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter22.options="0" filter131.key="DatabasesConnectionsoracle3Other UsersSYSTEM1View SYSTEM1.null@oracle3" filter44.filterCls="oracle.dbtools.raptor.navigator.CategoryFilter" filter237.filterCls="oracle.dbtools.raptor.navigator.ConnectionFilter" filter182.key="DatabasesConnectionsoracle3Other UsersHRIndex HR.null@oracle3" filter205.key="DatabasesConnectionssystemPUBLIC DATABASE LINK SYSTEM.null@system" filter34.filterCls="oracle.dbtools.raptor.navigator.CategoryFilter" filter126.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter49.options="0" filter134.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter82.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter140.options="0" filter24.options="0" filter214.options="0" filter47.options="0" filter180.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter191.options="0" filter114.options="0" filter108.options="0" filter31.options="0" filter245.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter71.key="DatabasesConnectionsOraclePUBLIC_SYNONYM SYSTEM.null@Oracle" filter41.options="0" filter150.options="0" filter189.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter245.key="DatabasesConnectionsOracleRecycle Bin SYSTEM6.null@Oracle" filter251.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter96.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter10.key="DatabasesConnectionsoracle3Other UsersTSMSYSFunction TSMSYS.null@oracle3" filter190.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter189.options="0" filter43.options="0" filter231.key="DatabasesConnectionssystemPackage SYSTEM.null@system" filter53.options="0" filter0.key="DatabasesConnectionsOracleProcedure SYSTEM.null@Oracle" filter241.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter112.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter187.options="0" filter189.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Queue Table SYSTEM6.null@oracle3" filter208.key="DatabasesConnectionsoracle3Recycle Bin SYSTEM3.null@oracle3" filter218.options="0" filter1.key="DatabasesConnectionsOracle2Table SYSTEM2.null@Oracle2" filter27.options="0" filter0.options="0" filter162.key="DatabasesConnectionsoracle3Other UsersSYSTEMTable SYSTEM.null@oracle3" filter147.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter205.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter50.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter90.options="0" filter21.options="0" filter205.options="0" filter4.key="DatabasesConnectionsoracle3Other UsersTSMSYSSynonym TSMSYS.null@oracle3" filter33.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter65.options="0" filter125.options="0" filter227.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter249.key="DatabasesConnectionssystemOther Users" filter225.key="DatabasesConnectionsoracle3Other UsersSYSTEMXML Schema SYSTEM.null@oracle3" filter106.key="DatabasesConnections" filter110.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter113.key="DatabasesConnectionsoracle3Trigger SYSTEM3.null@oracle3" filter181.key="DatabasesConnectionsoracle3Other UsersHRDirectory HR.null@oracle3" filter92.key="DatabasesConnectionsoracle3Other UsersSYSTEMScheduler" filter235.options="0" filter108.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter15.key="DatabasesConnectionsOracleQueue SYSTEM.null@Oracle" filter30.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter129.options="0" filter4.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter123.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter87.options="0" filter186.options="0" filter137.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter215.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter39.options="0" filter198.key="DatabasesConnectionsOracle2Type SYSTEM2.null@Oracle2" filter199.options="0" filter251.options="0" filter50.options="0" filter251.key="DatabasesConnectionsoracle3Other UsersTSMSYSMaterialized View Log TSMSYS.null@oracle3" filter117.key="DatabasesConnectionsoracle3Other UsersHRSequence HR.null@oracle3" filter55.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter143.key="DatabasesConnectionsOracleSynonym SYSTEM6.null@Oracle" filter12.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter137.options="0" filter148.options="0" filter60.options="0" filter105.key="DatabasesConnectionsoracle3Other UsersHRView HR.null@oracle3" filter228.key="DatabasesConnectionsoracle3Materialized View SYSTEM3.null@oracle3" filter204.key="DatabasesConnectionsOracleQueue Table SYSTEM6.null@Oracle" filter100.options="0" filter113.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter102.options="0" filter122.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter46.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Directory SYSTEM1.null@oracle3" filter142.key="DatabasesConnectionssystem" filter235.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Recycle Bin SYSTEM6.null@oracle3" filter106.filterCls="oracle.dbtools.raptor.navigator.folders.DatabasesFilter" filter68.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Trigger SYSTEM6.null@oracle3" filter29.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter37.options="0" filter122.key="DatabasesConnectionsOracleTable SYSTEM6.null@OracleTable SYSTEM6.DESIGNATIONS@Oracle" filter176.options="0" filter167.key="DatabasesConnectionssystemTable SYSTEM.null@system" filter47.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter193.options="0" filter196.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter209.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter34.options="0" filter7.key="DatabasesConnectionssystemTable SYSTEM.null@systemTable SYSTEM.CITY@system" filter31.key="DatabasesConnectionsoracle3Other UsersTSMSYSQueue TSMSYS.null@oracle3" filter41.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter128.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Procedure SYSTEM1.null@oracle3" filter26.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter122.options="0" filter175.key="DatabasesConnectionsoracle3Other UsersTSMSYSXML Schema TSMSYS.null@oracle3" filter244.key="DatabasesConnectionssystemQueue SYSTEM.null@system" filter168.options="0" filter71.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter213.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter142.options="0" filter109.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter21.key="DatabasesConnectionsOracleSequence SYSTEM6.null@Oracle" filter84.options="0" filter200.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter105.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter248.options="0" filter250.options="0" filter60.key="DatabasesConnectionsoracle3Other UsersHRMaterialized View HR.null@oracle3" filter42.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter68.options="0" filter81.key="DatabasesConnectionssystemTable SYSTEM.null@systemTable SYSTEM.TEACHER1@system" filter33.options="0" filter61.key="DatabasesConnectionsOracleSynonym SYSTEM.null@Oracle" filter185.options="0" filter56.options="0" filter43.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter88.options="0" filter200.options="0" filter19.key="DatabasesConnectionsOracleTable SYSTEM.null@Oracle" filter230.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter36.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter152.filterCls="oracle.dbtools.raptor.navigator.SchemaFilter" filter203.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter244.options="0" filter252.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Package SYSTEM6.null@oracle3" filter165.key="DatabasesConnectionsoracle3Other UsersHRType HR.null@oracle3" filter8.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter102.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter99.key="DatabasesConnectionsoracle3Other UsersTSMSYSDatabase Link TSMSYS.null@oracle3" filter237.key="DatabasesConnectionsoracle3" filter203.key="DatabasesConnectionsoracle3XDB_SUBFOLDER SYSTEM3.null@oracle3" filter257.key="DatabasesConnectionsoracle3Other UsersSYSTEMSequence SYSTEM.null@oracle3" filter203.options="0" filter119.key="DatabasesConnectionsOracleProcedure SYSTEM6.null@OracleProcedure SYSTEM6.RP@Oracle" filter63.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter92.options="0" filter22.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter91.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter170.options="0" filter40.filterCls="oracle.dbtools.raptor.navigator.SchemaFilter" filter181.options="0" filter246.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter101.key="DatabasesConnectionsOracleDirectory SYSTEM.null@Oracle" filter217.key="DatabasesConnectionsOracleTable SYSTEM.null@OracleTable SYSTEM.DEF$_TEMP$LOB@Oracle" filter140.key="DatabasesConnectionsOracleIndex SYSTEM.null@Oracle" filter136.key="DatabasesConnectionsOracle2XML Schema SYSTEM2.null@Oracle2" filter214.key="DatabasesConnectionsOracleSequence SYSTEM.null@Oracle" filter144.options="0" filter210.options="0" filter73.key="DatabasesConnectionsOracleDirectory SYSTEM6.null@Oracle" filter234.options="0" filter93.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter146.key="DatabasesConnectionsoracle3Other UsersSYSTEM1" filter169.key="DatabasesConnectionsoracle3Other UsersTSMSYSTrigger TSMSYS.null@oracle3" filter212.key="DatabasesConnectionsoracle3Other UsersTSMSYSMaterialized View TSMSYS.null@oracle3" filter13.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter125.key="DatabasesConnectionssystemTable SYSTEM.null@systemTable SYSTEM.STATE1@system" filter162.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter127.options="0" filter156.options="0" filter116.key="DatabasesConnectionsoracle3Materialized View Log SYSTEM3.null@oracle3" filter191.key="DatabasesConnectionsOracleTable SYSTEM.null@OracleTable SYSTEM.STATE@Oracle" filter86.key="DatabasesConnectionsOracleXDB_SUBFOLDER SYSTEM6.null@Oracle" filter67.key="DatabasesConnectionssystemView SYSTEM.null@system" filter248.key="DatabasesConnectionsOracleView SYSTEM.null@Oracle" filter35.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter92.filterCls="oracle.dbtools.raptor.navigator.CategoryFilter" filter29.key="DatabasesConnectionsoracle3View SYSTEM3.null@oracle3" filter28.key="DatabasesConnectionsOracle2Sequence SYSTEM2.null@Oracle2" filter31.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter49.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Synonym SYSTEM1.null@oracle3" filter164.options="0" filter35.key="DatabasesConnectionsOracle2Procedure SYSTEM2.null@Oracle2" filter59.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter8.key="DatabasesConnectionsoracle3Other UsersTSMSYSView TSMSYS.null@oracle3" filter30.options="0" filter51.options="0" filter216.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter172.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Table SYSTEM1.null@oracle3" filter115.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter229.options="0" filter168.key="DatabasesConnectionsOracleTable SYSTEM6.null@OracleTable SYSTEM6.CITIES@Oracle" filter220.options="0" filter252.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter229.key="DatabasesConnectionsOracle2" filter11.key="DatabasesConnectionsoracle3Other UsersSYSTEMIndex SYSTEM.null@oracle3" filter118.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter28.options="0" filter2.options="0" filter119.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter190.key="DatabasesConnectionsOraclePUBLIC DATABASE LINK SYSTEM6.null@Oracle" filter200.key="DatabasesConnectionsoracle3Other UsersTSMSYSTable TSMSYS.null@oracle3" filter129.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Directory SYSTEM6.null@oracle3" filter139.key="DatabasesConnectionsoracle3XML Schema SYSTEM3.null@oracle3" filter32.options="0" filter13.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Function SYSTEM6.null@oracle3" filter99.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter159.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter172.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter138.options="0" filter111.options="0" filter198.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter59.options="0" filter64.options="0" filter106.options="0" filter73.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter8.options="0" filter52.options="0" filter146.options="0" filter117.options="0" filter155.key="DatabasesConnectionsOraclePackage SYSTEM6.null@Oracle" filter253.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter16.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Trigger SYSTEM1.null@oracle3" filter176.key="DatabasesConnectionsOracle2Function SYSTEM2.null@Oracle2" filter45.key="DatabasesConnectionsOracleDatabase Link SYSTEM6.null@Oracle" filter107.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter1.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter148.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter132.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter141.options="0" filter182.options="0" filter56.key="DatabasesConnectionsOracleTable SYSTEM6.null@OracleTable SYSTEM6.QUALIFICATION@Oracle" filter220.key="DatabasesConnectionsOracleProcedure SYSTEM6.null@OracleProcedure SYSTEM6.PRSTUDENT@Oracle" filter199.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Materialized View SYSTEM6.null@oracle3" filter127.key="DatabasesConnectionsoracle3Other UsersSYSTEMXDB_SUBFOLDER SYSTEM.null@oracle3" filter184.key="DatabasesConnectionsOracleProcedure SYSTEM6.null@OracleProcedure SYSTEM6.RPDEV@Oracle" filter18.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter52.filterCls="oracle.dbtools.raptor.navigator.CategoryFilter" filter36.options="0" filter88.key="DatabasesConnectionsoracle3Other UsersHRDatabase Link HR.null@oracle3" filter10.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter37.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter40.options="0" filter230.options="0" filter145.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter36.key="DatabasesConnectionssystemFunction SYSTEM.null@system" filter152.key="DatabasesConnectionsoracle3Other UsersSYSTEM6" filter234.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter73.options="0" filter65.key="DatabasesConnectionsoracle3Other UsersTSMSYSProcedure TSMSYS.null@oracle3" filter38.options="0" filter75.key="DatabasesConnectionsOraclePUBLIC_SYNONYM SYSTEM6.null@Oracle" filter154.options="0" filter193.key="DatabasesConnectionsoracle3Other UsersTSMSYSTable TSMSYS.null@oracle3Table TSMSYS.SRS$@oracle3" filter219.options="0" filter195.options="0" filter125.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter242.options="0" filter156.key="DatabasesConnectionssystemTable SYSTEM.null@systemTable SYSTEM.EMPLOYEE@system" filter47.key="DatabasesConnectionsoracle3Other UsersSYSTEMPackage SYSTEM.null@oracle3" filter20.options="0" filter198.options="0" filter216.key="DatabasesConnectionsOracleXDB_SUBFOLDER SYSTEM.null@Oracle" filter116.options="0" filter116.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter204.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter69.key="DatabasesConnectionsOracleProcedure SYSTEM6.null@Oracle" filter74.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter164.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter239.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter7.options="0" filter105.options="0" filter222.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter25.key="DatabasesConnectionsOracle" filter63.options="0" filter10.options="0" filter206.key="DatabasesConnectionsOracle2Materialized View SYSTEM2.null@Oracle2" filter130.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter84.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter139.options="0" filter48.options="0" filter149.options="0" filter148.key="DatabasesConnectionssystemIndex SYSTEM.null@system" filter177.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter27.key="DatabasesConnectionssystemXML Schema SYSTEM.null@system" filter40.key="DatabasesConnectionsoracle3Other UsersSYSTEM" filter218.key="DatabasesConnectionsOracle2Index SYSTEM2.null@Oracle2" filter118.options="0" filter67.options="0" filter223.options="0" filter16.options="0" filter4.options="0" filter254.options="0" filter87.key="DatabasesConnectionsoracle3Other UsersSYSTEMView SYSTEM.null@oracle3" filter28.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter62.options="0" filter225.options="0" filter32.key="DatabasesConnectionsoracle3Package SYSTEM3.null@oracle3" filter180.key="DatabasesConnectionsoracle3Other UsersSYSTEMMaterialized View Log SYSTEM.null@oracle3" filter104.key="DatabasesConnectionssystemRecycle Bin SYSTEM.null@system" filter118.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Synonym SYSTEM6.null@oracle3" filter159.options="0" filter169.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter257.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter80.key="DatabasesConnectionsOraclePackage SYSTEM.null@Oracle" filter81.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter6.key="DatabasesConnectionsOracleIndex SYSTEM6.null@OracleIndex SYSTEM6.C1@Oracle" filter144.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter153.options="0" filter94.options="0" filter134.key="DatabasesConnectionsoracle3Other UsersHRTrigger HR.null@oracle3" filter221.key="DatabasesConnectionsoracle3Other UsersSYSTEM1XDB_SUBFOLDER SYSTEM1.null@oracle3" filter255.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter226.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Package SYSTEM1.null@oracle3" filter98.key="DatabasesConnectionsoracle3Other UsersHRSynonym HR.null@oracle3" filter77.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter57.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter147.options="0" filter79.key="DatabasesConnectionsoracle3Other UsersSYSTEMRecycle Bin SYSTEM.null@oracle3" filter9.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter96.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Index SYSTEM6.null@oracle3" filter186.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter103.options="0" filter58.key="DatabasesConnectionsoracle3Other UsersTSMSYS" filter223.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter24.key="DatabasesConnectionsoracle3PUBLIC DATABASE LINK SYSTEM3.null@oracle3" filter93.key="DatabasesConnectionssystemQueue Table SYSTEM.null@system" filter238.key="DatabasesConnectionsOracle2Queue SYSTEM2.null@Oracle2" filter82.key="DatabasesConnectionsoracle3Other UsersSYSTEMProcedure SYSTEM.null@oracle3" filter150.filterCls="oracle.dbtools.raptor.navigator.SchemaFilter" filter110.key="DatabasesConnectionsoracle3Other UsersTSMSYSQueue Table TSMSYS.null@oracle3" filter39.key="DatabasesConnectionsoracle3Other UsersTSMSYSIndex TSMSYS.null@oracle3" filter5.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter63.key="DatabasesConnectionssystemMaterialized View Log SYSTEM.null@system" filter104.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter83.options="0" filter201.options="0" filter144.key="DatabasesConnectionsOracleTable SYSTEM6.null@Oracle" filter37.key="DatabasesConnectionsOracleFunction SYSTEM6.null@Oracle" filter155.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter66.key="DatabasesConnectionsoracle3Other UsersSYSTEMQueue SYSTEM.null@oracle3" filter243.key="DatabasesConnectionsoracle3Other UsersSYSTEMQueue Table SYSTEM.null@oracle3" filter184.options="0" filter113.options="0" filter97.options="0" filter20.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter90.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter85.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter50.key="DatabasesConnectionsOracleTable SYSTEM6.null@OracleTable SYSTEM6.PANDU@Oracle" filter239.options="0" filter79.options="0" filter197.options="0" filter248.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter133.options="0" filter103.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter9.options="0" filter25.filterCls="oracle.dbtools.raptor.navigator.ConnectionFilter" filter174.options="0" filter54.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Sequence SYSTEM1.null@oracle3" filter95.options="0" filter172.options="0" filter79.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter202.key="DatabasesConnectionsoracle3Other UsersSYSTEM6Table SYSTEM6.null@oracle3" filter246.options="0" filter69.options="0" filter="258" filter238.options="0" filter155.options="0" filter108.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Recycle Bin SYSTEM1.null@oracle3" filter160.key="DatabasesConnectionsOracleSchedulerJobs SYSTEM6.null@Oracle" filter70.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter135.key="DatabasesConnectionsoracle3Other UsersSYSTEM1Queue Table SYSTEM1.null@oracle3" filter64.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter19.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter209.key="DatabasesConnectionsoracle3Other UsersSYSTEM6View SYSTEM6.null@oracle3" filter177.key="DatabasesConnectionsOracleXML Schema SYSTEM6.null@Oracle" filter89.options="0" filter191.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter32.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter43.key="DatabasesConnectionsoracle3Other UsersTSMSYSSequence TSMSYS.null@oracle3" filter120.key="DatabasesConnectionssystemSequence SYSTEM.null@system" filter138.key="DatabasesConnectionssystemScheduler" filter196.key="DatabasesConnectionsoracle3Procedure SYSTEM3.null@oracle3" filter211.key="DatabasesConnectionsoracle3Index SYSTEM3.null@oracle3" filter54.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter149.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter174.filterCls="oracle.dbtools.raptor.navigator.ObjectFilter" filter227.options="0" filter95.key="Databases" filter202.options="0" filter179.filterCls="oracle.dbtools.raptor.navigator.ObjectNodeFilter" filter75.options="0"/>
+         <view-data ID="ReportNavigatorWindow.Reports" ReportsDummy="true"/>
+         <view-data ID="LogWindow.Log" ClosedByUser="false"/>
+      </global>
+   </clientLayoutData>
+   <knownDockableFactories>
+      <Systemoracle_ideimpl_editor_RecentFiles_VIEW_TYPE/>
+      <Applicationoracle_ideimpl_editor_RecentFiles_VIEW_TYPE/>
+      <ExplorerWindow/>
+      <BOOKMARKS_VIEW_TYPE/>
+      <RunManagerWindow/>
+      <LogWindow/>
+      <Debugger/>
+      <DatabaseNavigatorWindow/>
+      <OUTLINE_VIEW_TYPE/>
+      <EXTDockable/>
+      <InspectorWindow/>
+      <PALETTEFACTORY/>
+      <STATUS/>
+      <SQLHISTORY_VIEW_TYPE/>
+      <DBMS_OUTPUT_DOCKABLE_VIEW_TYPE/>
+      <OWA_OUTPUT_DOCKABLE_VIEW_TYPE/>
+      <ReportNavigatorWindow/>
+      <VHV-VersionProperties/>
+      <VersioningNavigatorWindow/>
+      <SEARCH_VIEW_TYPE/>
+      <RECENT_OBJECTS_VIEW_TYPE/>
+      <DbaNavigatorWindow/>
+      <LISTENER_VIEW_TYPE/>
+      <SchemaBrowser/>
+      <SNIPPET_VIEW_TYPE/>
+      <UtNavigatorWindow/>
+      <DBCART_VIEW_TYPE/>
+      <TASK_PROGRESS_VIEW_TYPE/>
+      <UnifiedThumbnailDockable/>
+      <SPATIAL_VIEW_TYPE/>
+      <DataMinerNavigator/>
+      <TASKS_VIEW_TYPE/>
+      <CM_VIEW_TYPE/>
+      <FileNavigatorWindow/>
+      <ComponentPalette/>
+      <oracle-jdeveloper-subversion-PendingChangesWindow/>
+      <MigrationProjectNavigatorWindow/>
+   </knownDockableFactories>
+   <dockingPositions>
+      <WEST floatSize="180" dockSize="280">
+         <box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="DatabaseNavigatorWindow.DatabaseNavigatorName" floatWidth="400"/>
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="ReportNavigatorWindow.Reports" floatWidth="400"/>
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="DataMinerNavigator.Connection" floatWidth="400"/>
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="FileNavigatorWindow.Files" floatWidth="400"/>
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="UtNavigatorWindow.Unit Test" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="RECENT_OBJECTS_VIEW_TYPE.oracle-dbtools-raptor-recent-objects-Window" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="SEARCH_VIEW_TYPE.oracle-dbtools-raptor-nav-search-Window" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="OUTLINE_VIEW_TYPE.oracle-dbtools-raptor-plsql-structure-Window" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="DbaNavigatorWindow.DbaNavigatorName" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="ExplorerWindow.SingletonExplorerWindow" floatWidth="400"/>
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="Debugger.StackWindow" floatWidth="400"/>
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="UnifiedThumbnailDockable.UnifiedThumbnailDockable" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="RunManagerWindow" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="VersioningNavigatorWindow.VersioningNavigator" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="TASKS_VIEW_TYPE.RunManager" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="EXTDockable.DM_BROWSER" floatWidth="400"/>
+               </leafBox>
+            </box>
+         </box>
+      </WEST>
+      <EAST floatSize="180" dockSize="266">
+         <box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="SNIPPET_VIEW_TYPE.SNIPPET_VIEW_ID" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="PALETTEFACTORY.PALETTE" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="ComponentPalette" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="InspectorWindow.SingletonInspectorWindow" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="CM_VIEW_TYPE.CM_VIEW_ID" floatWidth="400"/>
+               </leafBox>
+            </box>
+            <box>
+               <leafBox height="300" width="400">
+                  <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="EXTDockable.DM_NAVIGATOR" floatWidth="400"/>
+               </leafBox>
+            </box>
+         </box>
+      </EAST>
+      <NORTH floatSize="180" dockSize="150"/>
+      <SOUTH floatSize="180" dockSize="250">
+         <box>
+            <leafBox height="300" width="400">
+               <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="BOOKMARKS_VIEW_TYPE.BOOKMARK_VIEW_ID" floatWidth="400"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox height="300" width="400">
+               <dockable dockWidth="400" floatHeight="162" floatOrientation="-1" dockHeight="300" ID="Debugger.BreakpointsWindow" floatWidth="162"/>
+               <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="Debugger.SmartWindow" floatWidth="400"/>
+               <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="Debugger.LocalsWindow" floatWidth="400"/>
+               <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="Debugger.WatchWindow" floatWidth="400"/>
+               <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="EXTDockable.SVNStatusCommandWindow" floatWidth="400"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox height="300" width="400">
+               <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="DBCART_VIEW_TYPE.DBCART_VIEW_ID" floatWidth="400"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox height="300" width="400">
+               <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="SQLHISTORY_VIEW_TYPE.SQLHISTORY_VIEW_ID" floatWidth="400"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox height="300" width="400">
+               <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="DBMS_OUTPUT_DOCKABLE_VIEW_TYPE.DBMS_OUTPUT_DOCKABLE_VIEW_ID" floatWidth="400"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox height="300" width="400">
+               <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="OWA_OUTPUT_DOCKABLE_VIEW_TYPE.OWA_OUTPUT_DOCKABLE_VIEW_ID" floatWidth="400"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox height="300" width="400">
+               <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="SPATIAL_VIEW_TYPE.SPATIAL_VIEW_ID" floatWidth="400"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox height="300" width="400">
+               <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="TASK_PROGRESS_VIEW_TYPE.TASK_PROGRESS_VIEW_ID" floatWidth="400"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox height="300" width="400">
+               <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="LISTENER_VIEW_TYPE.LISTENER_VIEW_ID" floatWidth="400"/>
+            </leafBox>
+         </box>
+         <box>
+            <leafBox height="300" width="400">
+               <dockable dockWidth="400" floatHeight="300" floatOrientation="-1" dockHeight="300" ID="STATUS.STATUS" floatWidth="400"/>
+            </leafBox>
+         </box>
+      </SOUTH>
+      <panel position="float" height="170" visible="false" width="170" y="353" x="699">
+         <box>
+            <leafBox height="300" width="400">
+               <dockable dockWidth="400" floatHeight="162" floatOrientation="-1" dockHeight="300" ID="LogWindow.Log" floatWidth="162"/>
+            </leafBox>
+         </box>
+      </panel>
+   </dockingPositions>
+   <editorPositions>
+      <box>
+         <leafBox height="300" selectedPage="8" width="400">
+            <state document="file ; ; -1 %2FC%3A%2FUsers%2Fsai%2FAppData%2FRoaming%2FSQL+Developer%2F20-12-22 ; ;" workspace="sqldev.temp ; ; -1 %2FDatabases.jws ; ;" accelerator="-1">
+               <paneState currentEditor="oracle.ide.ceditor.CodeEditorAddin">
+                  <editorState yScrollMin="0" yScrollMax="565" xScrollMax="927" xScrollMin="0" yScrollPos="52" yScrollExtent="513" xScrollExtent="927" addin="oracle.ide.ceditor.CodeEditorAddin" tabsize="2" offset="372" xScrollPos="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox height="1000" width="1000" pane="0"/>
+                  </box>
+               </pane>
+            </state>
+            <state document="file ; ; -1 %2FC%3A%2FUsers%2Fsai%2FAppData%2FRoaming%2FSQL+Developer%2F22-12-22.sql ; ;" workspace="sqldev.temp ; ; -1 %2FDatabases.jws ; ;" accelerator="-1">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMin="0" yScrollMax="0" xScrollMax="0" xScrollMin="0" yScrollPos="0" yScrollExtent="0" xScrollExtent="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" xScrollPos="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox height="1000" width="1000" pane="0"/>
+                  </box>
+               </pane>
+            </state>
+            <state document="file ; ; -1 %2FC%3A%2FUsers%2Fsai%2FAppData%2FRoaming%2FSQL+Developer%2F1234 ; ;" workspace="sqldev.temp ; ; -1 %2FDatabases.jws ; ;" accelerator="-1">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMin="0" yScrollMax="0" xScrollMax="0" xScrollMin="0" yScrollPos="0" yScrollExtent="0" xScrollExtent="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" xScrollPos="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox height="1000" width="1000" pane="0"/>
+                  </box>
+               </pane>
+            </state>
+            <state document="file ; ; -1 %2FC%3A%2FUsers%2Fsai%2FAppData%2FRoaming%2FSQL+Developer%2F27-12-22.sql ; ;" workspace="sqldev.temp ; ; -1 %2FDatabases.jws ; ;" accelerator="-1">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMin="0" yScrollMax="0" xScrollMax="0" xScrollMin="0" yScrollPos="0" yScrollExtent="0" xScrollExtent="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" xScrollPos="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox height="1000" width="1000" pane="0"/>
+                  </box>
+               </pane>
+            </state>
+            <state document="file ; ; -1 %2FC%3A%2FUsers%2Fsai%2FAppData%2FRoaming%2FSQL+Developer%2F27-12-2022.sql ; ;" workspace="sqldev.temp ; ; -1 %2FDatabases.jws ; ;" accelerator="-1">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMin="0" yScrollMax="0" xScrollMax="0" xScrollMin="0" yScrollPos="0" yScrollExtent="0" xScrollExtent="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" xScrollPos="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox height="1000" width="1000" pane="0"/>
+                  </box>
+               </pane>
+            </state>
+            <state document="file ; ; -1 %2FC%3A%2FUsers%2Fsai%2FAppData%2FRoaming%2FSQL+Developer%2F27-12-2022.sql ; ;" workspace="sqldev.temp ; ; -1 %2FDatabases.jws ; ;" accelerator="-1">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMin="0" yScrollMax="0" xScrollMax="0" xScrollMin="0" yScrollPos="0" yScrollExtent="0" xScrollExtent="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" xScrollPos="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox height="1000" width="1000" pane="0"/>
+                  </box>
+               </pane>
+            </state>
+            <state document="file ; ; -1 %2FC%3A%2FUsers%2Fsai%2FAppData%2FRoaming%2FSQL+Developer%2F28-12-22.sql ; ;" workspace="sqldev.temp ; ; -1 %2FDatabases.jws ; ;" accelerator="-1">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMin="0" yScrollMax="0" xScrollMax="0" xScrollMin="0" yScrollPos="0" yScrollExtent="0" xScrollExtent="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" xScrollPos="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox height="1000" width="1000" pane="0"/>
+                  </box>
+               </pane>
+            </state>
+            <state document="file ; ; -1 %2FC%3A%2FUsers%2Fsai%2FAppData%2FRoaming%2FSQL+Developer%2F30-12-22.sql ; ;" workspace="sqldev.temp ; ; -1 %2FDatabases.jws ; ;" accelerator="-1">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMin="0" yScrollMax="0" xScrollMax="0" xScrollMin="0" yScrollPos="0" yScrollExtent="0" xScrollExtent="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" xScrollPos="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox height="1000" width="1000" pane="0"/>
+                  </box>
+               </pane>
+            </state>
+            <state document="file ; ; -1 %2FC%3A%2FUsers%2Fsai%2FAppData%2FRoaming%2FSQL+Developer%2F02-01-2023.sql ; ;" workspace="sqldev.temp ; ; -1 %2FDatabases.jws ; ;" accelerator="-1">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMin="0" yScrollMax="0" xScrollMax="0" xScrollMin="0" yScrollPos="0" yScrollExtent="0" xScrollExtent="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" xScrollPos="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox height="1000" width="1000" pane="0"/>
+                  </box>
+               </pane>
+            </state>
+            <state document="file ; ; -1 %2FC%3A%2FUsers%2Fsai%2FAppData%2FRoaming%2FSQL+Developer%2F03-02-2022.sql ; ;" workspace="sqldev.temp ; ; -1 %2FDatabases.jws ; ;" accelerator="-1">
+               <paneState currentEditor="oracle.dbtools.worksheet.extension.WorksheetAddin">
+                  <editorState yScrollMin="0" yScrollMax="0" xScrollMax="0" xScrollMin="0" yScrollPos="0" yScrollExtent="0" xScrollExtent="0" addin="oracle.dbtools.worksheet.extension.WorksheetAddin" xScrollPos="0"/>
+               </paneState>
+               <pane>
+                  <box>
+                     <leafBox height="1000" width="1000" pane="0"/>
+                  </box>
+               </pane>
+            </state>
+         </leafBox>
+      </box>
+   </editorPositions>
+   <visibilityLayouts>
+      <Editing displayName="Editing">
+         <EXTDockable.DM_NAVIGATOR/>
+         <UnifiedThumbnailDockable.UnifiedThumbnailDockable/>
+         <CM_VIEW_TYPE.CM_VIEW_ID/>
+         <STATUS.STATUS/>
+         <Debugger.WatchWindow/>
+         <Debugger.SmartWindow/>
+         <OWA_OUTPUT_DOCKABLE_VIEW_TYPE.OWA_OUTPUT_DOCKABLE_VIEW_ID/>
+         <DBCART_VIEW_TYPE.DBCART_VIEW_ID/>
+         <InspectorWindow.SingletonInspectorWindow/>
+         <TASKS_VIEW_TYPE.RunManager/>
+         <DataMinerNavigator.Connection/>
+         <SPATIAL_VIEW_TYPE.SPATIAL_VIEW_ID/>
+         <ExplorerWindow.SingletonExplorerWindow/>
+         <VersioningNavigatorWindow.VersioningNavigator/>
+         <EXTDockable.SVNStatusCommandWindow/>
+         <TASK_PROGRESS_VIEW_TYPE.TASK_PROGRESS_VIEW_ID/>
+         <DatabaseNavigatorWindow.DatabaseNavigatorName raised="true" visible="true"/>
+         <ComponentPalette/>
+         <LogWindow.Log raised="true" visible="true"/>
+         <DBMS_OUTPUT_DOCKABLE_VIEW_TYPE.DBMS_OUTPUT_DOCKABLE_VIEW_ID/>
+         <RunManagerWindow/>
+         <OUTLINE_VIEW_TYPE.oracle-dbtools-raptor-plsql-structure-Window/>
+         <Debugger.LocalsWindow/>
+         <ReportNavigatorWindow.Reports visible="true"/>
+         <RECENT_OBJECTS_VIEW_TYPE.oracle-dbtools-raptor-recent-objects-Window/>
+         <SEARCH_VIEW_TYPE.oracle-dbtools-raptor-nav-search-Window/>
+         <EXTDockable.DM_BROWSER/>
+         <_escaped _escapedValue="UtNavigatorWindow.Unit Test"/>
+         <Debugger.BreakpointsWindow/>
+         <DbaNavigatorWindow.DbaNavigatorName/>
+         <FileNavigatorWindow.Files/>
+         <LISTENER_VIEW_TYPE.LISTENER_VIEW_ID/>
+         <Debugger.StackWindow/>
+         <SQLHISTORY_VIEW_TYPE.SQLHISTORY_VIEW_ID/>
+         <SNIPPET_VIEW_TYPE.SNIPPET_VIEW_ID/>
+         <BOOKMARKS_VIEW_TYPE.BOOKMARK_VIEW_ID/>
+         <PALETTEFACTORY.PALETTE/>
+      </Editing>
+   </visibilityLayouts>
+</LayoutInfo>

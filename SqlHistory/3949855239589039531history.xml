@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[file:/C:/Users/sai/AppData/Roaming/SQL Developer/28-12-22.sql]]></sql>
+		<connection><![CDATA[Oracle]]></connection>
+		<timestamp><![CDATA[4/28/23 3:22 PM]]></timestamp>
+		<type><![CDATA[Script]]></type>
+		<executed><![CDATA[8]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select * from student]]></sql>
+		<connection><![CDATA[Oracle]]></connection>
+		<timestamp><![CDATA[12/30/22 3:24 PM]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[10]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

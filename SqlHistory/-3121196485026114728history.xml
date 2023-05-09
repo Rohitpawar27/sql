@@ -1,0 +1,14 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create table qualification
+(qualification_id number constraint q1 primary key,
+qualification_name varchar (100) constraint q2 unique,
+flag number)]]></sql>
+		<connection><![CDATA[Oracle]]></connection>
+		<timestamp><![CDATA[1/3/23 2:19 PM]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.11]]></execTime>
+	</historyItem>
+</history>

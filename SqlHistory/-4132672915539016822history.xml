@@ -1,0 +1,16 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create or replace procedure sp
+as
+begin
+dbms_output.put_line('stored procedure called');
+end;
+execute sp]]></sql>
+		<connection><![CDATA[Oracle]]></connection>
+		<timestamp><![CDATA[12/30/22 2:06 PM]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[2]]></executed>
+		<execTime><![CDATA[0.015]]></execTime>
+	</historyItem>
+</history>

@@ -1,0 +1,20 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[declare
+sal1 number;
+sal2 number;
+emp1 number:=&emp1;
+emp2 number:=&emp2;
+begin
+select salary into sal1 from hr.employees where employee_id=emp1;
+select salary into sal2 from hr.employees where employee_id=emp2;
+dbms_output.put_line('salary1='||sal1||'salary2='||sal2);
+end;]]></sql>
+		<connection><![CDATA[Oracle]]></connection>
+		<timestamp><![CDATA[12/28/22 2:14 PM]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[4]]></executed>
+		<execTime><![CDATA[6.78]]></execTime>
+	</historyItem>
+</history>

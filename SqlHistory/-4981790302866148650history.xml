@@ -1,0 +1,18 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create or replace function funmul(a number,b number)
+return varchar
+as
+c number;
+begin
+c:=a*b;
+return 'multilication='||c;
+end;]]></sql>
+		<connection><![CDATA[Oracle]]></connection>
+		<timestamp><![CDATA[1/2/23 2:02 PM]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.016]]></execTime>
+	</historyItem>
+</history>

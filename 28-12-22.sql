@@ -1,0 +1,92 @@
+set serveroutput on
+
+declare
+sal1 number;
+sal2 number;
+emp1 number:=&emp1;
+emp2 number:=&emp2;
+begin
+select salary into sal1 from hr.employees where employee_id=emp1;
+select salary into sal2 from hr.employees where employee_id=emp2;
+dbms_output.put_line('salary1= '||sal1||' salary2= '||sal2);
+
+if (sal1>sal2) then
+begin
+dbms_output.put_line(sal1||'salary1 is greater than salary2'||sal2);
+end;
+else
+begin
+dbms_output.put_line (sal2||'salary2 is greater than salary1'||sal1);
+end;
+end if;
+end;
+
+declare
+sal1 number;
+sal2 number;
+sal3 number;
+emp1 number:=&emp1;
+emp2 number:=&emp2;
+emp3 number:=&emp3;
+begin
+select salary into sal1 from hr.employees where employee_id=emp1;
+select salary into sal2 from hr.employees where employee_id=emp2;
+select salary into sal3 from hr.employees where employee_id=emp3;
+dbms_output.put_line('salary1='||sal1||'salary2='||sal2||'salary3='||sal3);
+if (sal1>sal2&&sal1>sal3)then
+begin
+dbms_output.put_line(sal1||'salary1 is greater than salary2 and salary3'||sal2||sal3);
+end;
+else
+begin
+dbms_output.put_line()
+
+
+
+end;
+
+
+
+declare
+emp number:=emp;
+fn varchar(100);
+sal number;
+hd date;
+
+begin
+select first_name,salary,hire_date into fn,sal,hd from hr.employees where employee_id=emp;
+dbms_output.put_line ('first_name='||fs||'salary='||sal||'hire_date='||hd);
+end;
+
+declare
+emp hr.employees.employee_id%type = &emp;
+fn hr.employees.first_name%type;
+sal hr.employees.salary%type;
+hd hr.employees.hire_date%type;
+begin
+select first_name,salary,hire_date into fn,sal,hd from hr.employees where employee_id=emp;
+dbms_output.put_line ('first_name='||fn||'salary='||sal||'hire_date='||hd);
+end;
+
+
+declare
+emp hr.employees.employee_id%type :=&emp;
+e hr.employees % rowtype;
+begin
+select * into e from hr.employees where employee_id = emp;
+dbms_output.put_line(e.first_name);
+dbms_output.put_line(e.salary);
+dbms_output.put_line(e.hire_date);
+end;
+
+declare
+type emptype is record 
+(fn varchar (20));
+sal number;
+e emptype 
+begin
+select first_name,hire_date,alary into e from hr.employyes where employee_id =110;
+dbms_output.put_line(e.fn);
+dbms.output.put_line(e.sal);
+dbms_output.piut_line(e.hd);
+end;

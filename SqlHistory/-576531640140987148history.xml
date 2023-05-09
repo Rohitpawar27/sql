@@ -1,0 +1,25 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[create or replace function funope(a number,b number)
+return varchar
+as
+c number;
+d number;
+e number;
+f number;
+begin
+c:=a+b;
+d:=a-b;
+e:=a*b;
+f:=a/b;
+
+return 'addition='||c||'substraction='||d||'multiplication='||e||'division='||f;
+end;]]></sql>
+		<connection><![CDATA[Oracle]]></connection>
+		<timestamp><![CDATA[1/2/23 2:14 PM]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.031]]></execTime>
+	</historyItem>
+</history>

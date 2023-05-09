@@ -1,0 +1,82 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<client-settings class="java.util.HashMap" xmlns="http://xmlns.oracle.com/jdeveloper/110000/client-preferences">
+   <Item>
+      <Key>editors-options</Key>
+      <Value class="oracle.ide.editor.EditorsOptions">
+         <editorsData/>
+         <lruFiles>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>false</explicit>
+               <nodeURL path="../../sssssql"/>
+               <projectURL protocol="sqldev.temp" path="/IdeConnections%23system.jpr"/>
+               <workspaceURL protocol="sqldev.temp" path="/Databases.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>false</explicit>
+               <nodeURL path="../../03-02-2022.sql"/>
+               <projectURL/>
+               <workspaceURL protocol="sqldev.temp" path="/Databases.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>true</explicit>
+               <nodeURL path="../../1234"/>
+               <projectURL/>
+               <workspaceURL protocol="sqldev.temp" path="/Databases.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>false</explicit>
+               <nodeURL path="../../22-12-22.sql"/>
+               <projectURL/>
+               <workspaceURL protocol="sqldev.temp" path="/Databases.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.ide.ceditor.CodeEditorAddin</editor>
+               <explicit>true</explicit>
+               <nodeURL path="../../20-12-22"/>
+               <projectURL/>
+               <workspaceURL protocol="sqldev.temp" path="/Databases.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>true</explicit>
+               <nodeURL path="../../27-12-22.sql"/>
+               <projectURL/>
+               <workspaceURL protocol="sqldev.temp" path="/Databases.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>false</explicit>
+               <nodeURL path="../../27-12-2022.sql"/>
+               <projectURL protocol="sqldev.temp" path="/IdeConnections%23Oracle.jpr"/>
+               <workspaceURL protocol="sqldev.temp" path="/Databases.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>true</explicit>
+               <nodeURL path="../../28-12-22.sql"/>
+               <projectURL/>
+               <workspaceURL protocol="sqldev.temp" path="/Databases.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>false</explicit>
+               <nodeURL path="../../30-12-22.sql"/>
+               <projectURL/>
+               <workspaceURL protocol="sqldev.temp" path="/Databases.jws"/>
+            </Item>
+            <Item class="oracle.ide.editor.RecentFile">
+               <editor>oracle.dbtools.worksheet.extension.WorksheetAddin</editor>
+               <explicit>false</explicit>
+               <nodeURL path="../../02-01-2023.sql"/>
+               <projectURL protocol="sqldev.temp" path="/IdeConnections%23Oracle.jpr"/>
+               <workspaceURL protocol="sqldev.temp" path="/Databases.jws"/>
+            </Item>
+         </lruFiles>
+         <recentFilesShowAll>false</recentFilesShowAll>
+      </Value>
+   </Item>
+</client-settings>

@@ -1,0 +1,19 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[declare
+emp hr.employees.employee_id%type :=&emp;
+fn hr.employees.first_name%type;
+sal hr.employees.salary%type;
+hd hr.employees.hire_date%type;
+begin
+select first_name,salary,hire_date into fn,sal,hd from hr.employees where employee_id=&emp;
+dbms_output.put_line ('first_name='||fn||'salary='||sal||'hire_date='||hd);
+end;]]></sql>
+		<connection><![CDATA[Oracle]]></connection>
+		<timestamp><![CDATA[12/29/22 2:25 PM]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[2]]></executed>
+		<execTime><![CDATA[6.958]]></execTime>
+	</historyItem>
+</history>

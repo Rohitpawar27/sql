@@ -1,0 +1,6 @@
+create user system5 identified by tiger
+
+grant connect,resource,dba to system5
+
+drop user system5
+

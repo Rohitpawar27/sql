@@ -1,0 +1,32 @@
+create user system2 identified by tiger
+grant connect, resource,dba to system2 
+revoke connect,resource,dba from system2
+
+create table Teacher1 
+(id number, name varchar(20), address varchar(20))
+
+insert into Teacher1 values (1,'ajay','baramati');
+insert into Teacher1 values (2,'vijay','pune');
+insert into Teacher1 values (3,'sujay','solapur');
+
+select *  from Teacher1
+
+select * from city;
+select * from state
+
+create table state1
+(state_id number primary key,state_name varchar(20));
+
+insert into state1 values (1,'maha');
+insert into state1 values (2,'mp');
+
+
+
+
+
+create table city1
+
+(city_id number primary key, city_name varchar(20),state_id constraint state_id references state1(state_id));
+
+insert into city1 values (1,'solapur');
+insert into city1 values (2,'dhar');
